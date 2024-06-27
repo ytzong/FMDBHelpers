@@ -1,4 +1,4 @@
-#import "FMResultSet.h"
+#import <fmdb/FMResultSet.h>
 
 @interface FMResultSet (FMDBHelpers)
 
